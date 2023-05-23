@@ -66,7 +66,7 @@ The input is going to be the keyboard, where the user is going to be able to typ
  >     * How work will be divided between the team members
 
 ## Class Diagram
-![class diagram](https://github.com/cs100/final-project-icast065-carel009-ssmit129-jmuni017/blob/master/uml/v3.drawio.png?raw=true)
+![Class Diagram](https://github.com/Zarko36/Challenge-of-the-Idol-Frog/assets/74474117/294a01cb-fbab-4a13-a75f-ca0467be786b)
  > Include a **class diagram(s)** for your project and a **description** of the diagram(s). Your class diagram(s) should include all the main classes you plan for the project. This should be in sufficient detail that another group could pick up the project this point and successfully complete it. Use proper UML notation (as discussed in the course slides).
 
 Instance: This class is going to manage the saving system of the game. As soon as the player starts the game, they will be greeted with a menu and then a scene. Within the scene/menu players should be able to save the game. Each save is associated with an ID.
@@ -110,8 +110,9 @@ Composite - This design pattern seems to be the best option when dealing with ch
  > * Make sure your README file and Project board are up-to-date reflecting the current status of your project (e.g. any changes that you have made during the project such as changes to your class diagram). Previous versions should still be visible through your commit history. 
  
  ## Screenshots
- ![screenshot1](https://github.com/cs100/final-project-icast065-carel009-ssmit129-jmuni017/blob/master/Screenshots/Game1.png)
- ![screenshot2](https://github.com/cs100/final-project-icast065-carel009-ssmit129-jmuni017/blob/master/Screenshots/Game2.png)
+![Screenshot #1](https://github.com/Zarko36/Challenge-of-the-Idol-Frog/assets/74474117/c3d6a6ba-5a54-49ef-ab61-e42592812201)
+![Screenshot #2](https://github.com/Zarko36/Challenge-of-the-Idol-Frog/assets/74474117/64974db3-91d5-4b46-8a0a-244719418f6a)
+
  > Screenshots of the input/output after running your application
  ## Installation/Usage
  > Instructions on installing and running your application
@@ -170,8 +171,8 @@ Or just double click "Challenge_of_The_Idol_Frog"
  Character Creation Testing: Testing for character creation has been done by creating unit tests on gtest.
  > How was your project tested/validated? If you used CI, you should have a "build passing" badge in this README.
  
- ![character_creation_tests](https://github.com/cs100/final-project-icast065-carel009-ssmit129-jmuni017/blob/master/Screenshots/character_creation_tests.png)
- ![testscreenshot1](https://github.com/cs100/final-project-icast065-carel009-ssmit129-jmuni017/blob/master/Screenshots/GTests.PNG)
- ![testScreenshot2](https://github.com/cs100/final-project-icast065-carel009-ssmit129-jmuni017/blob/master/Screenshots/GTest2.png)
- ![valgrind](https://github.com/cs100/final-project-icast065-carel009-ssmit129-jmuni017/blob/master/Screenshots/valgrind.png)
- 
+
+![Testing #1](https://github.com/Zarko36/Challenge-of-the-Idol-Frog/assets/74474117/b15a616a-9ca2-4980-addb-46fbbacbaa8d)
+![Testing #2](https://github.com/Zarko36/Challenge-of-the-Idol-Frog/assets/74474117/27d9d314-0e45-4492-bf73-b0b156fc08a9)
+<img width="572" alt="Testing #4" src="https://github.com/Zarko36/Challenge-of-the-Idol-Frog/assets/74474117/f0d5447c-59a9-46d2-a589-b5697f398a87">
+<img width="682" alt="Testing#3" src="https://github.com/Zarko36/Challenge-of-the-Idol-Frog/assets/74474117/5716fc02-8301-4d9f-af18-76c0a8d6dae8">
